@@ -12,7 +12,7 @@ Changes I'll make in the Rev2 design
 - flex cable on oled is tight, slot or board notch possibly needed
 
 Assembly instructions
-- send the gerbers to OSH Park to have the board manufactured: <a href="https://www.oshpark.com/shared_projects/SkULVRHA"><img src="https://www.oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a> , the price for three 4 layer pcbs is $12.50
+- send the gerbers to OSH Park to have the board manufactured:https://www.oshpark.com/shared_projects/SkULVRHA , the price for three 4 layer pcbs is $12.50
 - follow the bom when ordering and hand stuffing components, solder on the oled display but do not tape it down
 - burn in the bootloader using the Segger J-link, Digi-Key #899-1008-ND, 899-1012-ND
 - follow the bootloader instructions: https://learn.adafruit.com/proper-step-debugging-atsamd21-arduino-zero-m0/restoring-bootloader
